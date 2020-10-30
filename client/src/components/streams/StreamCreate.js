@@ -58,11 +58,6 @@ function validate (formValues){
   return errors
 }
 
-// function mapStateToProps(state) {
-//   return {
-
-//   }
-// }
 
 const formWrap = reduxForm({form: 'myTwitcher',validate})(StreamCreate);
 export default connect(null, {createStream})(formWrap)

@@ -1,14 +1,10 @@
 {
   "streams": [
     {
-      "title": "hhhhhh",
-      "description": "hhhhhhhklh",
+      "title": "My First Post",
+      "description": "Hi Fabian, you are doing very well",
+      "userId": "104358248781929309885",
       "id": 1
-    },
-    {
-      "title": "aaa",
-      "description": "ffff",
-      "id": 2
     }
   ]
 }
